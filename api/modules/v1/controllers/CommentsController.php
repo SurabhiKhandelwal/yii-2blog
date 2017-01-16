@@ -39,7 +39,7 @@ class CommentsController extends ActiveController
     public function actions()
     {
         $actions = parent::actions();
-        unset($actions['update'], $actions['delete'], $actions['index']);
+        unset($actions['update'], $actions['index']);
         return $actions;
     }
 
