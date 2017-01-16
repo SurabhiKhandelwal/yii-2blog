@@ -1,0 +1,57 @@
+
+a,.tp-caption a.btn:hover {
+    color: #67b0d1;
+}
+.top-nav-collapse {
+    background: #67b0d1;
+}
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+    color: #67b0d1;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #67b0d1;
+}
+
+.widget-avatar .avatar:hover {
+    border: 5px solid #67b0d1;
+}
+
+.bg-skin {
+    background: #67b0d1;
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+    border-color: #67b0d1;
+}
+
+footer {
+    background-color: #67b0d1;
+}
+
+.btn-skin {
+    color: #fff;
+    background-color: #67b0d1;
+    border-color: #67b0d1;
+}
+
+footer p a{color:#f8f8f8;font-size: 18px}
+.contact-img img{vertical-align:auto;
+                 text-align:left;float: left;}
+
+.cat_head{margin-bottom: 0px;}
+.blog-index .body-content{text-align:left;}
+.category .active{text-decoration: underline;}
+.tagcloud a{
+    border: 1px solid #e3e3e3;
+    display: inline-block;
+    font-size: 12px !important;
+    font-weight: 600;
+    margin-bottom: 0.5em;
+    padding: 0.3em 0.6em;
+    text-transform: uppercase;
+}
+.tagcloud p{margin-bottom: 5px;font-style: italic }
+.name_auth{font-weight: bold}
